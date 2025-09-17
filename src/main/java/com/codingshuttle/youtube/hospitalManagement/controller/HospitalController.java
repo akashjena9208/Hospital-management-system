@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
-
+//http://localhost:8080/api/v1/public/doctors
 @RestController
 @RequestMapping("/public")
 @RequiredArgsConstructor
